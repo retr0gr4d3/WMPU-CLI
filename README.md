@@ -29,4 +29,5 @@ This is probably because WeMod updated itself and now uses a new directory. To f
 ## 🫂 Contributors
 <a href="https://github.com/retr0gr4d3/WPU-CLI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=retr0gr4d3/WPU-CLI" />
+  <img src="https://contrib.rocks/image?repo=delabarra/wemod-pro-unlocker" />
 </a>
